@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## String
 |  |
 | ------- |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
