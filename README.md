@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0219-contains-duplicate-ii](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0214-shortest-palindrome) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
