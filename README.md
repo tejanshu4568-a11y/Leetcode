@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
