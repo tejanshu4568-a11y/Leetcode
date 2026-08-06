@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0481-magical-string](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0481-magical-string) |
 ## Trie
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0283-move-zeroes) |
+| [0481-magical-string](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0481-magical-string) |
 ## Sorting
 |  |
 | ------- |
