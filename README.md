@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0020-valid-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0093-restore-ip-addresses) |
+| [0214-shortest-palindrome](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -164,4 +165,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
