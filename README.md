@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0459-repeated-substring-pattern](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Trie
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Hash Function
 |  |
 | ------- |
@@ -205,10 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Sliding Window
 |  |
 | ------- |
