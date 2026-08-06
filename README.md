@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0238-product-of-array-except-self) |
 ## String
 |  |
 | ------- |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
