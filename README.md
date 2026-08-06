@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0147-insertion-sort-list](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0147-insertion-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0147-insertion-sort-list](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0147-insertion-sort-list) |
 ## Recursion
 |  |
 | ------- |
