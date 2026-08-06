@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0481-magical-string](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0481-magical-string) |
+| [0482-license-key-formatting](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0482-license-key-formatting) |
 ## Trie
 |  |
 | ------- |
