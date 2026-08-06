@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0493-reverse-pairs) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0035-search-insert-position) |
+| [0493-reverse-pairs](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0307-range-sum-query-mutable](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0493-reverse-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -242,10 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0493-reverse-pairs) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -262,4 +267,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0463-island-perimeter) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
