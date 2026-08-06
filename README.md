@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
