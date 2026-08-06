@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -66,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0077-combinations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
