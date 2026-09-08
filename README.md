@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0093-restore-ip-addresses) |
+| [0357-count-numbers-with-unique-digits](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0357-count-numbers-with-unique-digits](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Rolling Hash
 |  |
 | ------- |
