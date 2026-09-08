@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0704-binary-search) |
+| [0720-longest-word-in-dictionary](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## String
 |  |
 | ------- |
@@ -46,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0686-repeated-string-match) |
+| [0720-longest-word-in-dictionary](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0720-longest-word-in-dictionary](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0645-set-mismatch](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Stack
 |  |
 | ------- |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Quicksort
 |  |
 | ------- |
