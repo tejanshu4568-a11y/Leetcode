@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0520-detect-capital) |
+| [0686-repeated-string-match](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0686-repeated-string-match) |
 ## Trie
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0686-repeated-string-match) |
 ## Hash Function
 |  |
 | ------- |
@@ -242,11 +244,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0686-repeated-string-match) |
 ## Sliding Window
 |  |
 | ------- |
@@ -309,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0645-set-mismatch) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
