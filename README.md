@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0687-longest-univalue-path) |
+| [0700-search-in-a-binary-search-tree](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0687-longest-univalue-path) |
+| [0700-search-in-a-binary-search-tree](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
