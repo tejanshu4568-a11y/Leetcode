@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0493-reverse-pairs) |
 | [0636-exclusive-time-of-functions](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
