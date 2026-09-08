@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0493-reverse-pairs) |
+| [0636-exclusive-time-of-functions](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0394-decode-string) |
+| [0636-exclusive-time-of-functions](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 ## Bracket Sequences
 |  |
 | ------- |
