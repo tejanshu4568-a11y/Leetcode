@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0493-reverse-pairs) |
 | [0636-exclusive-time-of-functions](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0636-exclusive-time-of-functions) |
+| [0645-set-mismatch](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0645-set-mismatch](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0645-set-mismatch) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0645-set-mismatch) |
 ## Quicksort
 |  |
 | ------- |
@@ -298,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0493-reverse-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
