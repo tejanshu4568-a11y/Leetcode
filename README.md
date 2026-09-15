@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0258-add-digits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Rolling Hash
 |  |
@@ -347,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/tejanshu4568-a11y/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
